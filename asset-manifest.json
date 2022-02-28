@@ -1,0 +1,22 @@
+{
+  "main.css": "/amnaFyp/static/css/main.dacb3b3a.chunk.css",
+  "main.js": "/amnaFyp/static/js/main.c5644685.chunk.js",
+  "main.js.map": "/amnaFyp/static/js/main.c5644685.chunk.js.map",
+  "runtime~main.js": "/amnaFyp/static/js/runtime~main.b3886d6f.js",
+  "runtime~main.js.map": "/amnaFyp/static/js/runtime~main.b3886d6f.js.map",
+  "static/css/2.3c3c190d.chunk.css": "/amnaFyp/static/css/2.3c3c190d.chunk.css",
+  "static/js/2.50190508.chunk.js": "/amnaFyp/static/js/2.50190508.chunk.js",
+  "static/js/2.50190508.chunk.js.map": "/amnaFyp/static/js/2.50190508.chunk.js.map",
+  "index.html": "/amnaFyp/index.html",
+  "precache-manifest.24e2c8ab624cb8aaeb0bcaa8990cfeff.js": "/amnaFyp/precache-manifest.24e2c8ab624cb8aaeb0bcaa8990cfeff.js",
+  "service-worker.js": "/amnaFyp/service-worker.js",
+  "static/css/2.3c3c190d.chunk.css.map": "/amnaFyp/static/css/2.3c3c190d.chunk.css.map",
+  "static/css/main.dacb3b3a.chunk.css.map": "/amnaFyp/static/css/main.dacb3b3a.chunk.css.map",
+  "static/media/321go.mp3": "/amnaFyp/static/media/321go.8efff185.mp3",
+  "static/media/background.gif": "/amnaFyp/static/media/background.efc0e331.gif",
+  "static/media/bar.png": "/amnaFyp/static/media/bar.669f8cdb.png",
+  "static/media/grocerySound.mp3": "/amnaFyp/static/media/grocerySound.a0d6b138.mp3",
+  "static/media/rightAnswer.mp3": "/amnaFyp/static/media/rightAnswer.09b0b7bb.mp3",
+  "static/media/tostartpressbutton.mp3": "/amnaFyp/static/media/tostartpressbutton.424d1898.mp3",
+  "static/media/wrongAnswer.mp3": "/amnaFyp/static/media/wrongAnswer.ddcbc59b.mp3"
+}
